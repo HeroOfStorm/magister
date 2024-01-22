@@ -54,10 +54,6 @@ pyasn1-modules==0.3.0
 pydeck==0.8.1b0
 Pygments==2.15.1
 Pympler==1.0.1
-PyQt5==5.15.9
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.12.2
-pyqtgraph==0.13.3
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-decouple==3.8
@@ -93,4 +89,3 @@ validators==0.20.0
 watchdog==3.0.0
 wcwidth==0.2.6
 webencodings==0.5.1
-zipp==3.15.0
