@@ -11,7 +11,7 @@ Elements included in the project:
 - Model trained on real data from otodom.pl website
 
 ## Overview
-This Streamlit application displays examples of house rental offers and allows users to predict rental prices based on various features of the property. The app uses a machine learning model to make predictions and displays the results in a metric. 
+This Streamlit application displays examples of house rental offers and allows users to predict rental prices based on various features of the property. The app uses a machine learning model to make predictions and displays the results as price and diviation from average market price. 
 
 ## Features
 This Streamlit app displays examples of home rental listings and allows users to predict rental prices based on various property characteristics. The application uses a machine learning model to make predictions, which was developed in a thesis.
